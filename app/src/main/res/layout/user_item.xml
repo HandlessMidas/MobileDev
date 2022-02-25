@@ -8,6 +8,7 @@
     android:paddingHorizontal="16dp">
 
     <ImageView
+
         android:id="@+id/avatarView"
         android:layout_width="60dp"
         android:layout_height="57dp"
